@@ -1,2 +1,2 @@
-# CovidProfile class represents COVID-19 statistics for a specific location and date.
-
+# TryJava  
+This repository is created for practicing Java programming.
